@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.description = "SimpleCaptcha is available to be used with Rails 3 or above and also it provides the backward compatibility with previous versions of Rails."
   s.authors = ["Pavlo Galeta", "Igor Galeta"]
   s.email = "galeta.igor@gmail.com"
-  s.homepage = "http://github.com/izzm/simple-captcha"
-  
+  s.homepage = "https://github.com/galetahub/simple-captcha"
+
   s.files = Dir["{lib}/**/*"] + ["Rakefile", "README.rdoc"]
   s.test_files = Dir["{test}/**/*"]
   s.extra_rdoc_files = ["README.rdoc"]
